@@ -1,3 +1,3 @@
 var catName = "sunny"
-var monthsOld = 4
-var isSleeping = true
+var catDad = "adam"
+var catMom = "nina"
